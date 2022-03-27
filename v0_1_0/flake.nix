@@ -11,6 +11,7 @@
   inputs.src-nimtesseract-v0_1_0.ref   = "refs/tags/v0.1.0";
   inputs.src-nimtesseract-v0_1_0.owner = "DavideGalilei";
   inputs.src-nimtesseract-v0_1_0.repo  = "nimtesseract";
+  inputs.src-nimtesseract-v0_1_0.dir   = "";
   inputs.src-nimtesseract-v0_1_0.type  = "github";
   
   inputs."pixie".owner = "nim-nix-pkgs";

@@ -11,6 +11,7 @@
   inputs.src-nimtesseract-master.ref   = "refs/heads/master";
   inputs.src-nimtesseract-master.owner = "DavideGalilei";
   inputs.src-nimtesseract-master.repo  = "nimtesseract";
+  inputs.src-nimtesseract-master.dir   = "";
   inputs.src-nimtesseract-master.type  = "github";
   
   inputs."pixie".owner = "nim-nix-pkgs";
