@@ -168,11 +168,11 @@
       },
       "locked": {
         "dir": "4_4_0",
-        "lastModified": 1656748388,
-        "narHash": "sha256-HjbO+h9xS4okMoIWEgZKC/xOdNITF+4jYFS8eZlp1a4=",
+        "lastModified": 1657154575,
+        "narHash": "sha256-cVYh3GkXGBhIks0UaoQn1+3udyEOqiPx+FNy5ly1ZHA=",
         "owner": "nim-nix-pkgs",
         "repo": "pixie",
-        "rev": "6b25378e1b5b6f5883b217525343c7b7e72f11dc",
+        "rev": "086479980c772e7e41891dfae177808aaf65bc05",
         "type": "github"
       },
       "original": {
