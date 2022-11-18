@@ -335,11 +335,11 @@
       },
       "locked": {
         "dir": "5_0_1",
-        "lastModified": 1668756365,
-        "narHash": "sha256-iWfxcClf3BSdbscvqraKOHdcBIhZKaLvkwmLadt8X4Q=",
+        "lastModified": 1668777745,
+        "narHash": "sha256-JmdhUZreym9fX+uoCc8FmBlMWkegyPgwZGpT8ZO9BDk=",
         "owner": "nim-nix-pkgs",
         "repo": "pixie",
-        "rev": "8722b00096484b9b52abbfa5e9c56375fb3af5a3",
+        "rev": "ca4922af87656888787372d480a0b545e2190964",
         "type": "github"
       },
       "original": {
